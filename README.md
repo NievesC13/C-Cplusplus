@@ -1,2 +1,2 @@
-# C
-Practicas y Proyectos en C
+# C / C++
+Practicas y Proyectos en C y C++
