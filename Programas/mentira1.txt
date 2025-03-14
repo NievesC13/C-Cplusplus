@@ -1,0 +1,7 @@
+
+Jugador 1 
+
+
+ Jugada 1 Entrada 5.00  Salida 0.00 
+
+ Jugada 2 Entrada 2.50  Salida 0.00 
